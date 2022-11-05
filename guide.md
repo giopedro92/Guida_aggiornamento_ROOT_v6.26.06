@@ -7,9 +7,9 @@ Aprite il terminale (Ubuntu WSL) e copiate e incollate (in ordine) tutti i coman
 - [INSTALLAZIONE ROOT CERN versione 6.26.06 (LINUX UBUNTU 20 su WSL su WINDOWS](#installazione-root-cecrn-versione-6.26.06-linux-ubuntu-20-su-wsl-su-windows)
     - [0. Preparazione all'installazione](#preparazione-all'installazione)
     - [1. Rimozione della precedente installazione di ROOT (NECESSARIO per non avere conflitti tra le versioni)](#rimozione-della-precedente-installazione-di-root)
-    - [2. Scaricamento del file compresso della nuova versione di ROOT](scaricamento-del-file-compresso-della-nuova-versione-di-root)
-    - [3. Installazione](installazione)
-    - [4. Setup finale](setup-finale)
+    - [2. Scaricamento del file compresso della nuova versione di ROOT](#scaricamento-del-file-compresso-della-nuova-versione-di-root)
+    - [3. Installazione](#installazione)
+    - [4. Setup finale](#setup-finale)
 
 
 ## 0. Preparazione all'installazione
