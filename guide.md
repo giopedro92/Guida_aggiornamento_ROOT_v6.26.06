@@ -2,6 +2,8 @@
 
 Aprite il terminale (Ubuntu WSL) e copiate e incollate (in ordine) tutti i comandi della guida.
 
+>Portando il cursore sopra al riquadro contenente il codice appare un BOTTONE sulla destra che potete cliccare per copiare comodamente il comando. Sul terminale poi basterà premere il tasto destro per incollare il testo.
+
 - [INSTALLAZIONE ROOT CERN versione 6.26.06 (LINUX UBUNTU 20 su WSL su WINDOWS](#installazione-root-cecrn-versione-6.26.06-linux-ubuntu-20-su-wsl-su-windows)
     - [0. Preparazione all'installazione](#preparazione-all'installazione)
     - [1. Rimozione della precedente installazione di ROOT (NECESSARIO per non avere conflitti tra le versioni)](#rimozione-della-precedente-installazione-di-root)
